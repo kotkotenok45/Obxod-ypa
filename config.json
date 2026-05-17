@@ -1,0 +1,20 @@
+{
+  "outbounds": [
+    {
+      "protocol": "http",
+      "settings": {
+        "servers": [
+          {
+            "address": "kotkotenok43-obxod-ypa.hf.space",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls"
+      },
+      "tag": "HF-Proxy-GitHub"
+    }
+  ]
+}
