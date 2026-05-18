@@ -2,4 +2,4 @@
 #profile-update-interval: 1
 #announce: Этот сервер должен обходить белые списки (работает на серверах CloudFlare)
 
-vless://00000000-0000-0000-0000-000000000000@obxod0ypa.itzrealsaddude.workers.dev:443?encryption=none&security=tls&type=ws&host=obxod0ypa.itzrealsaddude.workers.dev&path=%2F#+Сервер+1
+vless://00000000-0000-0000-0000-000000000000@obxod0ypa.itzrealsaddude.workers.dev:443?encryption=none&security=tls&type=ws&host=obxod0ypa.itzrealsaddude.workers.dev&path=%2F#Сервер+1
