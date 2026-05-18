@@ -6,15 +6,23 @@
         "servers": [
           {
             "address": "kotkotenok43-obxod-ypa.hf.space",
-            "port": 443
+            "port": 443,
+            "user": [],
+            "pass": []
           }
         ]
       },
       "streamSettings": {
-        "network": "tcp",
-        "security": "tls"
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/ws",
+          "headers": {
+            "Host": "kotkotenok43-obxod-ypa.hf.space"
+          }
+        }
       },
-      "tag": "HF-Proxy-GitHub"
+      "tag": "HF-Public-Proxy"
     }
   ]
 }
