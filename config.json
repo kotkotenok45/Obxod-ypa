@@ -1,14 +1,19 @@
 {
   "outbounds": [
     {
-      "protocol": "http",
+      "protocol": "vless",
       "settings": {
-        "servers": [
+        "vnext": [
           {
             "address": "kotkotenok43-obxod-ypa.hf.space",
             "port": 443,
-            "user": [],
-            "pass": []
+            "users": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "encryption": "none",
+                "level": 0
+              }
+            ]
           }
         ]
       },
@@ -22,7 +27,7 @@
           }
         }
       },
-      "tag": "HF-Public-Proxy"
+      "tag": "HF-Public-VLESS"
     }
   ]
 }
