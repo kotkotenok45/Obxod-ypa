@@ -1,5 +1,5 @@
 {
-  "remarks": "Hugging Face",
+  "remarks": "HF-Public-VLESS",
   "outbounds": [
     {
       "protocol": "vless",
