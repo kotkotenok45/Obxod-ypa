@@ -1,1 +1,5 @@
-vless://00000000-0000-0000-0000-000000000000@kotkotenok43-obxod-ypa.hf.space:443?encryption=none&security=tls&type=ws&host=kotkotenok43-obxod-ypa.hf.space&path=%2Fws#HF-Public-Xray
+#profile-title: base64:UmVuZGVyIFNlcnZlcg==
+#profile-update-interval: 1
+#support-url: https://github.com
+
+vless://00000000-0000-0000-0000-000000000000@ИМЯ_ТВОЕГО_СЕРВИСА.onrender.com:443?encryption=none&security=tls&type=ws&host=ИМЯ_ТВОЕГО_СЕРВИСА.onrender.com&path=%2Fws#🚀+Render+Server+1
