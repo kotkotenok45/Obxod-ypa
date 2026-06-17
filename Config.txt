@@ -1,5 +1,5 @@
 #profile-title: Обход ура
 #profile-update-interval: 1
-#announce: Сервер работает на CloudFlare
+#announce: Этот сервер работает на CloudFlare
 
 vless://472996cb-194f-4c72-9515-112cb6bff75a@172.67.74.251:443?encryption=none&security=tls&sni=obxod0ypa.itzrealsaddude.workers.dev&type=ws&host=obxod0ypa.itzrealsaddude.workers.dev&path=%2F#Сервер 1
