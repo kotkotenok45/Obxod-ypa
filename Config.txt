@@ -1,5 +1,5 @@
 #profile-title: Обход ура
 #profile-update-interval: 1
-#announce: Этот сервер должен обходить белые списки (работает на серверах CloudFlare)
+#announce: Сервер работает на CloudFlare
 
-vless://00000000-0000-0000-0000-000000000000@obxod0ypa.itzrealsaddude.workers.dev:443?encryption=none&security=tls&type=ws&host=obxod0ypa.itzrealsaddude.workers.dev&path=%2F#Сервер 1
+vless://472996cb-194f-4c72-9515-112cb6bff75a@172.67.74.251:443?encryption=none&security=tls&sni=obxod0ypa.itzrealsaddude.workers.dev&type=ws&host=obxod0ypa.itzrealsaddude.workers.dev&path=%2F#Сервер 1
