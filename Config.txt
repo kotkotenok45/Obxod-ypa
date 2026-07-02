@@ -2,4 +2,4 @@
 #support-url: t.me/Kot_kotenok43
 #profile-update-interval: 1
 #announce: Для добавления ключа в подписку, напишите нам в поддержку с хештегом #ДобавьтеКлюч
-
+vless://48f1318d-0a5f-4e4e-93ef-9906191acac4@se-arn-5.blook.network:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=se-arn-5.blook.network&pbk=EtVNKCjxImAhppDcy7ia1-7DY9nBxa2FC5SrPMGwlXQ&sid=3089328d#Cluster+%2316+SE+(От @kuertov_project)
