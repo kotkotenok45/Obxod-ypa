@@ -3,3 +3,4 @@
 #profile-update-interval: 1
 #announce: Для добавления ключа в подписку, напишите нам в поддержку с хештегом #ДобавьтеКлюч
 vless://48f1318d-0a5f-4e4e-93ef-9906191acac4@se-arn-5.blook.network:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=se-arn-5.blook.network&pbk=EtVNKCjxImAhppDcy7ia1-7DY9nBxa2FC5SrPMGwlXQ&sid=3089328d#Cluster+%2316+SE+(От @kuertov_project)
+vless://db266230-fa3a-485e-bc4a-a4acc8b91d2c@188.253.22.93:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cl-11.rita-cloud.com&pbk=FvT2HooUgiWykrWT50xQFeV5H1_4nGM2N6YXG0wAEFM&sid=f851524895a1065d#%F0%9F%87%B1%F0%9F%87%BB+%D0%AF%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA+-+%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F+%F0%9F%8C%80+(От @akonit_public)
